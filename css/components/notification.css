@@ -9,7 +9,8 @@
 }
 
 .notification--header {
-
+  top: -5px;
+  left: 20px;
 }
 
 .notification--icon {
